@@ -12,7 +12,7 @@ body{
     min-height: 11in;
     padding: 1in;
     margin: 1rem;
-    box-shadow: 0 0 5px 0 rgb(0, 0, 0, .5);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
     background-color: white;
 }
 
@@ -29,9 +29,9 @@ body{
     position: sticky;
     top: 0;
     z-index: 1;
-    background-color: #f3f3f3;
+    background-color: #b1a6a6;
     border: none;
-    box-shadow: 0 0 5px 0 rgb(0, 0, 0, .5);
+    box-shadow: 0 0 5px 0 rgba(244, 237, 237, 0.5);
 }   
 
 @page{
